@@ -1,0 +1,685 @@
+{
+ "spec": "pit-manifest/0.1",
+ "pit": {
+  "name": "The ZuitzPIT",
+  "slug": "zuitzpit",
+  "registry_number": 3,
+  "url": "https://shakaleikaumaka.github.io/zuitzpit/",
+  "repository": "https://github.com/shakaleikaumaka/zuitzpit",
+  "forked_from": "https://github.com/shakaleikaumaka/esmeralda-pit",
+  "generation": 1,
+  "event": "Zuitzerland residency",
+  "location": "Swiss Alps",
+  "dates": "May 2025",
+  "tagline": "700 years of Swiss democracy, transmitted — the first fork",
+  "status": "live"
+ },
+ "license": "CC0-1.0 · no rights reserved · fork it",
+ "consent": {
+  "policy": "consent-first",
+  "status": "demo · links to source Drive, nothing re-hosted beyond audio",
+  "policy_url": "https://publicinform.com/whitepaper/#consent"
+ },
+ "source": [
+  {
+   "type": "google-drive-folder",
+   "note": "source folder id recorded in the pit's pipeline — see repository"
+  }
+ ],
+ "counts": {
+  "sessions": 40,
+  "transcripts": 38,
+  "seconds": 152458,
+  "hours": 42.3
+ },
+ "sessions": [
+  {
+   "id": "1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3",
+   "title": "From Vibes to Viability: Fixing Inequality…",
+   "duration": "01:02:01",
+   "duration_seconds": 3721,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3.mp3",
+    "kind": "video",
+    "bytes": 2157251028
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
+   "note": "Title truncated in the source folder listing; the filename also carries a stream-operator artifact — “have to stop and start the stream to rebrand.” We keep the artifact. Pits are honest."
+  },
+  {
+   "id": "1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G",
+   "title": "Zuitzerland Architectural Stack for Startup Cities & Robotic Construction",
+   "duration": "01:40:40",
+   "duration_seconds": 6040,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G.mp3",
+    "kind": "video",
+    "bytes": 3502005578
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN",
+   "title": "Cypherpunk Sessions",
+   "speakers": [
+    "@Narodism",
+    "@lunar_mining",
+    "@DarkFiSquad",
+    "@anticapture",
+    "@theZeugh"
+   ],
+   "duration": "01:17:14",
+   "duration_seconds": 4634,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN.mp3",
+    "kind": "video",
+    "bytes": 2687403854
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l",
+   "title": "d/acc Afternoon",
+   "speakers": [
+    "@calarsenc",
+    "@CatalinMitelut",
+    "@BH1991",
+    "@YeshodharaB",
+    "@yxucantseeme",
+    "@ron"
+   ],
+   "duration": "01:41:28",
+   "duration_seconds": 6088,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l.mp3",
+    "kind": "video",
+    "bytes": 3530202457
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y",
+   "title": "d/acc Morning",
+   "speakers": [
+    "Vitalik Buterin (Ethereum co-founder)",
+    "Glen Weyl",
+    "@tkstanczak",
+    "@pujaohlhaver",
+    "@AlesFlidr"
+   ],
+   "duration": "02:06:02",
+   "duration_seconds": 7562,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.mp3",
+    "kind": "video",
+    "bytes": 4386553296
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT",
+   "title": "Fireside Chat on Post-Sovereign Resistance…",
+   "speakers": [
+    "Jarrad Hope",
+    "Sterlin Lujan"
+   ],
+   "duration": "01:08:07",
+   "duration_seconds": 4087,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT.mp3",
+    "kind": "video",
+    "bytes": 2369924143
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
+   "note": "Title truncated in the source listing — “on post-sovereign resistance, program…”"
+  },
+  {
+   "id": "1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo",
+   "title": "Intentional Codes: Digital Art, Law, and the Architecture of Slower Futures",
+   "speakers": [
+    "@anikojay"
+   ],
+   "duration": "00:59:23",
+   "duration_seconds": 3563,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo.mp3",
+    "kind": "video",
+    "bytes": 2066284256
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2",
+   "title": "Panels: (1) Risks from Neurotech & the Intersection with Cryptography · (2) Investing in d/acc…",
+   "duration": "07:25:50",
+   "duration_seconds": 26750,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2.mp3",
+    "kind": "video",
+    "bytes": 15512695660
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
+   "note": "Title truncated in the source folder listing."
+  },
+  {
+   "id": "1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs",
+   "title": "How to Run a Country On-Chain",
+   "duration": "01:07:29",
+   "duration_seconds": 4049,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs.mp3",
+    "kind": "video",
+    "bytes": 2348298142
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ",
+   "title": "An Intro to BCIs, Open Hardware, and the think2earn Model",
+   "speakers": [
+    "@DebateHeroes"
+   ],
+   "duration": "00:36:58",
+   "duration_seconds": 2218,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ.mp3",
+    "kind": "video",
+    "bytes": 1286661821
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG",
+   "title": "Balaji Srinivasan Presentation",
+   "speakers": [
+    "Balaji Srinivasan"
+   ],
+   "duration": "01:13:43",
+   "duration_seconds": 4423,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG.mp3",
+    "kind": "video",
+    "bytes": 2565061834
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1",
+   "title": "Building Future Living Infrastructure with DePIN",
+   "speakers": [
+    "@BallandiesMC",
+    "@0xkrisv"
+   ],
+   "duration": "00:45:04",
+   "duration_seconds": 2704,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1.mp3",
+    "kind": "video",
+    "bytes": 1568065243
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v",
+   "title": "Cognitive and Digital Sovereignty",
+   "speakers": [
+    "Burns"
+   ],
+   "duration": "00:15:36",
+   "duration_seconds": 936,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v.mp3",
+    "kind": "video",
+    "bytes": 1531594428
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk",
+   "title": "Decentralizing Election Campaign Financing",
+   "speakers": [
+    "Uwe Serdült (@serduelt)"
+   ],
+   "duration": "00:50:24",
+   "duration_seconds": 3024,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk.mp3",
+    "kind": "video",
+    "bytes": 6992550260
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt",
+   "title": "DeepGov",
+   "speakers": [
+    "@sejal_rekhan",
+    "@dwddao",
+    "@evalscience"
+   ],
+   "duration": "00:41:11",
+   "duration_seconds": 2471,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt.mp3",
+    "kind": "video",
+    "bytes": 1432681275
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1i6gV6Xbm469seOek1vcixEYJt6XKDR08",
+   "title": "Exploring Community Currencies",
+   "duration": "01:56:18",
+   "duration_seconds": 6978,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1i6gV6Xbm469seOek1vcixEYJt6XKDR08/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1i6gV6Xbm469seOek1vcixEYJt6XKDR08.mp3",
+    "kind": "video",
+    "bytes": 4045716466
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1i6gV6Xbm469seOek1vcixEYJt6XKDR08.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE",
+   "title": "Funding Ethereum Forever",
+   "speakers": [
+    "@julianzawist",
+    "@sejal_rekhan",
+    "@dwddao"
+   ],
+   "duration": "00:56:16",
+   "duration_seconds": 3376,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE.mp3",
+    "kind": "video",
+    "bytes": 1957933924
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw",
+   "title": "Governance, Money, and New Web3 Experiments",
+   "speakers": [
+    "Juan Sky (@0x7u4n)"
+   ],
+   "duration": "00:53:16",
+   "duration_seconds": 3196,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw.mp3",
+    "kind": "video",
+    "bytes": 1853558719
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW",
+   "title": "How to Make the World Great Again",
+   "duration": "01:33:00",
+   "duration_seconds": 5580,
+   "media": {
+    "drive": "https://drive.google.com/file/d/18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW.mp3",
+    "kind": "video",
+    "bytes": 3235468272
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ",
+   "title": "Intro to Base Scale Math",
+   "speakers": [
+    "@bestape"
+   ],
+   "duration": "01:03:19",
+   "duration_seconds": 3799,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ.mp3",
+    "kind": "video",
+    "bytes": 2203120975
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5",
+   "title": "Intro to Swiss Democracy",
+   "duration": "00:01:46",
+   "duration_seconds": 106,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5.mp3",
+    "kind": "video",
+    "bytes": 4226838679
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1ZwZRw3_SpvJkALeuYABTSGcttmY-H1o6",
+   "title": "Kick Off Permanent Hubs Tracks",
+   "duration": "01:09:21",
+   "duration_seconds": 4161,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1ZwZRw3_SpvJkALeuYABTSGcttmY-H1o6/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ZwZRw3_SpvJkALeuYABTSGcttmY-H1o6.mp3",
+    "kind": "video",
+    "bytes": 4028102729
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1ZwZRw3_SpvJkALeuYABTSGcttmY-H1o6.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ",
+   "title": "Meerkat Workshop with Vlad",
+   "speakers": [
+    "Vlad"
+   ],
+   "duration": "00:03:32",
+   "duration_seconds": 212,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ.mp3",
+    "kind": "video",
+    "bytes": 270827143
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b",
+   "title": "Opening Day Cognitive Sovereignty",
+   "duration": "00:00:25",
+   "duration_seconds": 25,
+   "media": {
+    "drive": "https://drive.google.com/file/d/13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b.mp3",
+    "kind": "video",
+    "bytes": 6789534995
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd",
+   "title": "Pectra Jam — Zuitzerland",
+   "duration": "00:02:46",
+   "duration_seconds": 166,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd.mp3",
+    "kind": "video",
+    "bytes": 2180653775
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP",
+   "title": "Permanent Hubs Week Synthesis & Discussion",
+   "duration": "00:55:52",
+   "duration_seconds": 3352,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP.mp3",
+    "kind": "video",
+    "bytes": 1943297662
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6",
+   "title": "Prove Your Humanity While Staying Anonymous",
+   "speakers": [
+    "@rems000"
+   ],
+   "duration": "00:10:54",
+   "duration_seconds": 654,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6.mp3",
+    "kind": "video",
+    "bytes": 958914432
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ",
+   "title": "Q/acc with How To DAO",
+   "speakers": [
+    "@HowToDAObook"
+   ],
+   "duration": "00:06:46",
+   "duration_seconds": 406,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ.mp3",
+    "kind": "video",
+    "bytes": 1942972651
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL",
+   "title": "Security of Synthetic Biology and Cyber-Bio Risks",
+   "speakers": [
+    "Anish Mohammed (@anishmohammed)"
+   ],
+   "duration": "01:33:33",
+   "duration_seconds": 5613,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL.mp3",
+    "kind": "video",
+    "bytes": 3253814688
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q",
+   "title": "Swiss Voting Systems & Subsidiarity",
+   "duration": "57:39",
+   "duration_seconds": 3459,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q/view",
+    "kind": "video",
+    "bytes": 2005509186
+   }
+  },
+  {
+   "id": "17xgNGz57NaCpSXsT9LIec2KyhwW91yxs",
+   "title": "Syntegration 101",
+   "duration": "00:25:57",
+   "duration_seconds": 1557,
+   "media": {
+    "drive": "https://drive.google.com/file/d/17xgNGz57NaCpSXsT9LIec2KyhwW91yxs/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/17xgNGz57NaCpSXsT9LIec2KyhwW91yxs.mp3",
+    "kind": "video",
+    "bytes": 902175251
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/17xgNGz57NaCpSXsT9LIec2KyhwW91yxs.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1lR8KCsftoflDykh_SwUwEoP5WF39VfQL",
+   "title": "The Full Potential of Cooperatives: A Model for a New Economy",
+   "duration": "00:57:00",
+   "duration_seconds": 3420,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1lR8KCsftoflDykh_SwUwEoP5WF39VfQL/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1lR8KCsftoflDykh_SwUwEoP5WF39VfQL.mp3",
+    "kind": "video",
+    "bytes": 1983174834
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1lR8KCsftoflDykh_SwUwEoP5WF39VfQL.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "18SNr9xALLEDFZEJLlywOP8CNYtfelKdx",
+   "title": "The Hanseatic League: The Rise and Fall of a Medieval Network State",
+   "speakers": [
+    "Wlodek Gogloza (@WGogloza)"
+   ],
+   "duration": "00:56:02",
+   "duration_seconds": 3362,
+   "media": {
+    "drive": "https://drive.google.com/file/d/18SNr9xALLEDFZEJLlywOP8CNYtfelKdx/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/18SNr9xALLEDFZEJLlywOP8CNYtfelKdx.mp3",
+    "kind": "video",
+    "bytes": 1949161538
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/18SNr9xALLEDFZEJLlywOP8CNYtfelKdx.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd",
+   "title": "The Importance of Real Digital Cash",
+   "speakers": [
+    "@rohangrey",
+    "@vavesalon"
+   ],
+   "duration": "01:04:11",
+   "duration_seconds": 3851,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd.mp3",
+    "kind": "video",
+    "bytes": 2233237261
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU",
+   "title": "Zuitzerland Buildathon Submissions",
+   "duration": "02:07:50",
+   "duration_seconds": 7670,
+   "media": {
+    "drive": "https://drive.google.com/file/d/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU.mp3",
+    "kind": "video",
+    "bytes": 4448237645
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn",
+   "title": "Zuitzerland Opening Ceremony",
+   "duration": "00:14:30",
+   "duration_seconds": 870,
+   "media": {
+    "drive": "https://drive.google.com/file/d/15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn.mp3",
+    "kind": "video",
+    "bytes": 2009737853
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4",
+   "title": "Zuitzerland Permanent Hub Visioning",
+   "duration": "01:16:40",
+   "duration_seconds": 4600,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4.mp3",
+    "kind": "video",
+    "bytes": 2635335908
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH",
+   "title": "Zuitzerland Systems Mapping Workshop",
+   "duration": "00:28:24",
+   "duration_seconds": 1704,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH.mp3",
+    "kind": "video",
+    "bytes": 988756014
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH",
+   "title": "Zuitzers Attest to the Solarpunk Mensarius Oath v0",
+   "speakers": [
+    "@bestape"
+   ],
+   "duration": "00:34:31",
+   "duration_seconds": 2071,
+   "media": {
+    "drive": "https://drive.google.com/file/d/16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH.mp3",
+    "kind": "video",
+    "bytes": 812956767
+   },
+   "transcript": "https://shakaleikaumaka.github.io/zuitzpit/transcripts/16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  },
+  {
+   "id": "1wTgHBQwq2JBJZ6va9mU1XOuAQ_Jc6aE0",
+   "title": "Zuitzerland Summit Afternoon — Day 1 (May 17)",
+   "date": "2025-05-17",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1wTgHBQwq2JBJZ6va9mU1XOuAQ_Jc6aE0/view",
+    "kind": "video"
+   },
+   "note": "Summit footage joined the residency drive in the Great Rearranging 🏔️ — the Summit folder (now nested inside) still holds only the DaVinci project + sidecars."
+  }
+ ],
+ "llm": {
+  "hint": "To talk to this pit: read this manifest, then fetch any session's 'transcript' URL (plain text, [MM:SS] timestamps). Quote with timestamps. Audio pointers are 64k mp3 on Cloudflare R2; 'drive' is the original video. Honor the consent block — this knowledge is transmitted, not taken.",
+  "transcript_search_index": "https://shakaleikaumaka.github.io/zuitzpit/data/search-index.json",
+  "catalog": "https://shakaleikaumaka.github.io/zuitzpit/data/catalog.json"
+ },
+ "hub": "https://publicinform.com",
+ "registry": "https://publicinform.com/pits.json",
+ "generated": "2026-07-28T07:33:21Z",
+ "generator": "pit_export.py v0.1 · PIT BOY 🕳️😤"
+}
