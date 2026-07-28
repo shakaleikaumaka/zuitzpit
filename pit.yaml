@@ -67,6 +67,8 @@ sessions:
       bytes: 2687403854
     transcript: "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN.txt"
     transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    summary: "Two sessions: Amir Taaki and the DarkFi crew on lunarpunk and deniable anonymous infrastructure — then Blockful's Zug on the $500M drained from DAOs through governance, not code."
+    digest: "Amir Taaki argues crypto forgot its mission: billions of dollars and decades later, people still have not built an anonymous chat app — everybody's using Google Docs, it's embarrassing [11:57]. DarkFi's answer is fully p2p, deniable infrastructure — anonymous DAOs, swaps, chat — built by a largely anonymous dev community; panelist Rose frames lunarpunk as freedom toward something, not just from. Then Zug of Blockful: some $500M stolen from DAOs via governance, with code working exactly as audited [01:02:56] — anticapture.com rates DAO security on the assumption that Lazarus already knows."
   - id: 1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l
     title: d/acc Afternoon
     speakers:
@@ -102,6 +104,8 @@ sessions:
       bytes: 4386553296
     transcript: "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.txt"
     transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    summary: "Vitalik, Glen Weyl, Tomasz Stańczak, and Puja Ohlhaver open the d/acc track, then go deep: plural publics and privacy, pro-social media, biosecurity, and the money–voice trade-off."
+    digest: "The d/acc track opens with a panel — Vitalik Buterin, Glen Weyl, Tomasz Stańczak, Puja Ohlhaver — on solarpunk, lunarpunk, and privacy as a public good: the things you can no longer do because others are watching [20:28]. Then three talks: Weyl on bridging-based social media that rewards consensus over division [39:28]; Aleš Flídr on differential technology development and far-UVC pandemic defense [01:03:31]; Ohlhaver on PCARE, where locked currency becomes non-transferable voice [01:46:18]. Vitalik's charge: move d/acc from the philosophizing phase to active building."
   - id: 1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT
     title: "Fireside Chat on Post-Sovereign Resistance…"
     speakers:
@@ -116,6 +120,8 @@ sessions:
       bytes: 2369924143
     transcript: "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT.txt"
     transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    summary: "Jarrad Hope (Logos/Status), with Sterlin Lujan, on Farewell to Westphalia: pirating institutions, the cost of exit, and why success means the technology is never needed."
+    digest: "Jarrad Hope, co-author of Farewell to Westphalia, traces cyber-state lineage from LambdaMOO's self-governance through cypherpunk islands in the net to blockchains as parliamentary sovereignty. He steelmans the nation state: the tech is a hedge, and success is that it's not needed [09:58]. The punchline: instead of pirating music, we'll be pirating institutions, deployed where people are underserved [22:39]. Against the CEO-led network state he sets Satoshi, the king made of stone, and forking as ultimate exit — not worried about centralization, worried about the cost of exit [53:30]."
     note: "Title truncated in the source listing — “on post-sovereign resistance, program…”"
   - id: 1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo
     title: "Intentional Codes: Digital Art, Law, and the Architecture of Slower Futures"
@@ -153,6 +159,8 @@ sessions:
       bytes: 2348298142
     transcript: "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs.txt"
     transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    summary: "Zama's Kyle O'Brien pitches the State OS: countries are stories running on legacy code, and fully homomorphic encryption is what makes running one on-chain viable."
+    digest: "Kyle O'Brien (Zama) opens with FHE — computing on data without ever decrypting it [03:47] — then builds to his thesis: countries are just stories, and ours run on legacy code [40:21]. His country-as-tech-stack: trust and institutions at the base, then services, economy, culture. Blockchain alone can't host a state because it's public by default — would you put your pay stub online? [52:53] His claim: confidentiality is a prerequisite for sovereignty, and FHE makes voting, identity, currency, and tax compliance workable on-chain."
   - id: "1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ"
     title: "An Intro to BCIs, Open Hardware, and the think2earn Model"
     speakers:
@@ -179,6 +187,8 @@ sessions:
       bytes: 2565061834
     transcript: "https://shakaleikaumaka.github.io/zuitzpit/transcripts/1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG.txt"
     transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    summary: "Balaji's network-state thesis for the Zuitzerland room: China is strong, but the Internet is stronger — and startup societies are how the Internet takes the torch from America."
+    digest: "Balaji argues China has overtaken the US in hard power, but no amount of violence can solve certain kinds of math problems — BTC versus the CCP [05:55]. His litany: the Internet is mail, media, money, contracts, democracy — it lets you choose the denominator, creating the polity itself [12:48]. Network states are the succession: just as America took the torch from Britain, the Internet takes it from America [17:14]. Q&A spans Network School, the laptop test for high-trust communities, crypto-first Swiss neutrality, and the subscription state."
   - id: 1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1
     title: Building Future Living Infrastructure with DePIN
     speakers:
@@ -483,6 +493,8 @@ sessions:
       bytes: 2009737853
     transcript: "https://shakaleikaumaka.github.io/zuitzpit/transcripts/15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn.txt"
     transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    summary: "Zuitzerland initiator Eila opens the residency: the path from Zuzalu Montenegro to a decentralized Swiss edition, and why Switzerland is d/acc's natural home."
+    digest: "Eila, one of Zuitzerland's initiators, welcomes residents and the livestream after nine months of preparation [00:04]. She traces the lineage from Zuzalu, Vitalik's two-month Montenegro pop-up city [04:27], through his decision to decentralize the movement, to the team's realization that Switzerland is the place to try [06:57]. Her case: centuries of decentralized governance and quiet defensive design, down to the iodine tablets handed to new arrivals [11:56], make Switzerland the strongest real-world model for d/acc's defensive social technology."
   - id: "1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4"
     title: Zuitzerland Permanent Hub Visioning
     duration: "01:16:40"
@@ -531,5 +543,5 @@ llm:
   catalog: "https://shakaleikaumaka.github.io/zuitzpit/data/catalog.json"
 hub: "https://publicinform.com"
 registry: "https://publicinform.com/pits.json"
-generated: "2026-07-28T07:33:21Z"
+generated: "2026-07-28T15:19:46Z"
 generator: pit_export.py v0.1 · PIT BOY 🕳️😤
