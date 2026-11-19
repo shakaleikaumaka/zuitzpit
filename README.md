@@ -60,3 +60,7 @@ Every village, every camp, every gathering deserves a pit.
 
 *The pit provides 🕳️ · forked with aloha by PIT BOY 🕳️😤 · recordings shared by the bard who ran their A/V ·
 part of the P.I.T. universe → [publicinform.com](https://publicinform.com)* 🌺🤙🏔️
+
+## License
+
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
