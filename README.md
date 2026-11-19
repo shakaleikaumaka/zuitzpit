@@ -45,13 +45,13 @@ synced glowing transcripts, tap-to-seek, deep search, Patrick's speaker bubbles.
 index.html          the whole ZuitzPIT app (single-page, zero build step)
 data/catalog.json   the 39-session catalog (ids, titles, speakers, Drive links)
 pipeline/           🛠️ the working harvest→publish scripts inherited from the Esmeralda fork
-LICENSE             CC0 — no rights reserved
+LICENSE             copyleft — GPL-3.0 code · CC BY-SA 4.0 content
 GIFT.md             🎁 the original "Dear Edge City" letter, inherited from the fork parent
 ```
 
 ## Fork it again
 
-Everything is **CC0**. This pit is itself a fork — forking it again is the design, not the exception.
+Everything is **copyleft**. This pit is itself a fork — forking it again is the design, not the exception.
 Every village, every camp, every gathering deserves a pit.
 
 👉 Protocol white paper & the registry of living pits: **[publicinform.com](https://publicinform.com)**
@@ -63,4 +63,4 @@ part of the P.I.T. universe → [publicinform.com](https://publicinform.com)* �
 
 ## License
 
-Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. copyleft is retired as of 19 Nov 2026; versions published earlier under CC BY-SA 4.0 stay CC0.
